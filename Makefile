@@ -1,5 +1,7 @@
 .POSIX:
 
+all:
+
 install:
 	mkdir -p ${DESTDIR}/usr/include/GL/internal
 	cp dri_interface.h ${DESTDIR}/usr/include/GL/internal
