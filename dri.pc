@@ -1,7 +1,7 @@
 prefix=/usr
 includedir=${prefix}/include
 
-dridriverdir=
+dridriverdir=/usr/lib/dri
 
 Name: dri
 Description: Direct Rendering Infrastructure
